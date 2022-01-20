@@ -1,0 +1,72 @@
+.logo-css {
+position: absolute;
+width: 143px;
+height: 56px;
+left: 54px;
+top: 16px;
+}
+
+.img1 {
+position: absolute;
+width: 500px;
+height: 500px;
+left: 81px;
+top: 98px;
+}
+
+.phone1 {
+position: absolute;
+width: 200px;
+height: 236px;
+left: 1177px;
+top: 400px;
+}
+
+.social1 {
+position: absolute;
+width: 474px;
+height: 60px;
+left: 46px;
+top: 650px;
+}
+.google {
+position: absolute;
+width: 36px;
+height: 36px;
+left: 452px;
+top: 660px;
+}
+.facebook {
+position: absolute;
+width: 36px;
+height: 36px;
+left: 408px;
+top: 660px;
+
+}
+.downloadbutton{
+position: absolute;
+width: 150px;
+height: 40px;
+left: 1000px;
+top: 179px;
+
+}
+
+.inputtext{
+position: absolute;
+width: 712px;
+height: 74px;
+left: 400px;
+top: 170px;
+
+}
+
+.linktext{
+position: absolute;
+width: 712px;
+height: 74px;
+left: 600px;
+top: 195px;
+
+}
